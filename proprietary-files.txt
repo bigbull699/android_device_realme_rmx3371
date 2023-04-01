@@ -1024,6 +1024,7 @@ vendor/lib64/libperipheral_client.so
 vendor/lib64/libspcom.so
 
 # Perf
+vendor/etc/init/saver.rc
 odm/lib64/vendor.oplus.hardware.performance@1.0.so
 vendor/bin/hw/vendor.qti.hardware.perf@2.2-service
 vendor/etc/init/vendor.qti.hardware.perf@2.2-service.rc
