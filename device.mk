@@ -199,6 +199,7 @@ PRODUCT_PACKAGES += \
 # CameraGo V4
 PRODUCT_PACKAGES += \
     GCamGOPrebuilt-V4
+    
 # GPS
 PRODUCT_PACKAGES += \
     android.hardware.gnss.measurement_corrections@1.1.vendor \
