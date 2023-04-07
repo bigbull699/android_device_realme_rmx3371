@@ -1434,8 +1434,6 @@ odm/firmware/aw8697_haptic_166.bin
 odm/firmware/aw8697_haptic_168.bin
 odm/firmware/aw8697_haptic_172.bin
 odm/firmware/aw8697_haptic_174.bin
-odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160HZ.bin
-odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162HZ.bin
 odm/firmware/aw8697_rtp_silk.bin
 odm/firmware/barca_alarm_ring_RTP_120.bin
 odm/firmware/barca_incoming_ring_RTP_121.bin
